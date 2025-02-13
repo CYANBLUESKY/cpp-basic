@@ -1,0 +1,14 @@
+# Ignore all files by default
+*
+
+# Allow C++ source and header files
+!*.cpp
+!*.c
+!*.h
+!*.hpp
+
+# Allow CMakeLists.txt if used
+!CMakeLists.txt
+
+# Allow .gitignore itself
+!.gitignore
