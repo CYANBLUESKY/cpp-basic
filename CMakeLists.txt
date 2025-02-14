@@ -3,4 +3,4 @@ project(Basic)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Basic print_ASCII.cpp)
+add_executable(Basic local_variable.cpp)
