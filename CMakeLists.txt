@@ -3,4 +3,4 @@ project(Basic)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Basic pointer.cpp)
+add_executable(Basic new_delete_array.cpp)
