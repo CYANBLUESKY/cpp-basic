@@ -3,4 +3,4 @@ project(Basic)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Basic dynamic_memory_bakery.cpp)
+add_executable(Basic function.cpp)
