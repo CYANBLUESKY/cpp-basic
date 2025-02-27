@@ -3,4 +3,4 @@ project(Basic)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Basic call_by_reference.cpp)
+add_executable(Basic try_throw_catch.cpp)
