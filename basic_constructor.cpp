@@ -4,7 +4,7 @@ using namespace std;
 class character {
 public:
     character() {
-        cout << "character 클래스 생성자" << endl;
+        cout << "character 클래스 생성자." << endl;
     }
 };
 
