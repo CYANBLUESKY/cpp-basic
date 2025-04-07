@@ -3,4 +3,5 @@ project(Basic)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Basic basic_destructor.cpp)
+add_executable(Basic basic_destructor.cpp
+        liskov_principle_destructor.cpp)
