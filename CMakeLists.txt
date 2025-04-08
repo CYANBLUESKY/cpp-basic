@@ -3,4 +3,4 @@ project(Basic)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Basic simple_bank.cpp)
+add_executable(Basic function_template.cpp)
