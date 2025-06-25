@@ -11,7 +11,6 @@ double data_sum(double operand1, double operand2) {
     return (int) operand1 + (int) operand2;
 }
 
-
 int main() {
     int data1 = 3, data2 = 5;
     double data3 = 4.5, data4 = 8.9;
