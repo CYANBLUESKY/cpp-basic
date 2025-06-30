@@ -3,5 +3,5 @@ project(Basic)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Basic class_template_default_data_type.cpp
+add_executable(Basic class_template_friend_class_template.cpp
 )
